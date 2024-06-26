@@ -1,1 +1,3 @@
 first file in second lesson.
+
+Learning to push code on github.
